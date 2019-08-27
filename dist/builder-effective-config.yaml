@@ -1,0 +1,8 @@
+directories:
+  output: dist
+  buildResources: build
+appId: c21
+win:
+  target: NSIS
+  icon: images/21.ico
+electronVersion: 5.0.7

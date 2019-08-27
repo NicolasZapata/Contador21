@@ -1,0 +1,26 @@
+span{
+    display: flex;
+    align-items: center;
+    font-size: 1000%;
+    justify-content: center;
+    font-family: "Dosis" ;
+    user-select: none;
+}
+
+button{
+    background-color: rgb(31, 178, 197);
+    color: white;
+    display: flex;
+    float: none;
+    text-align: center;
+    font-size: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Dosis";
+    border-radius: 1000px;
+}
+
+button:hover{
+    color: aqua;
+    background-color: rgb(25, 75, 212);
+}
